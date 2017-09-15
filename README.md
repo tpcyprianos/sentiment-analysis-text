@@ -1,6 +1,11 @@
 # Sentiment Analysis in Text
 Codes and Files of task "T2" in the course "Affective Computing" at Unicamp
 
+## Datasets
+The datasets used in the experiment are:
+* [Manchetes Brasil Database](https://github.com/pdpcosta/manchetesBrasildatabase)
+* [Tweets Labeled] (https://github.com/minerandodados/mdrepo/blob/master/Tweets_Mg.csv)
+
 ## Development Environment
 
 ### Language and Libraries
